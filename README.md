@@ -1,6 +1,6 @@
 # ⌚ Projeto Apple Watch
 
-Projeto realizado na 1ª aula do **Intensivão de JavaScript** da [Hashtag Treinamentos](https://www.hashtagtreinamentos.com).
+Projeto realizado na 2ª aula do **Intensivão de JavaScript** da [Hashtag Treinamentos](https://www.hashtagtreinamentos.com).
 
 Nesse projeto nos concentramos na implementação da lógica em JavaScript.
 
